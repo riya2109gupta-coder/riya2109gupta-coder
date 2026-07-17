@@ -29,6 +29,6 @@
 ## 📊 GitHub Stats
 
 
-**riya2109gupta-coder/riya2109gupta-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**riya2109gupta-coder/riya2109gupta-coder** is a ✨ _special_ ✨ repository because its `README.md` 
 
 
